@@ -1,7 +1,7 @@
 
 class Messages:
 
-    START_MSG = "Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtube once you authorise me.You can know more from /help.\n\nThank you."
+    START_MSG = "Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtube once you authorise me.You can know more from /help.\n\nCheck @ZainsProjects for more, ©redits- @odysseusmax , Thank you."
 
     HELP_MSG = [
         ".",
@@ -28,7 +28,7 @@ class Messages:
 
     NO_AUTH_CODE_MSG = "There is no code. Please provide some code"
 
-    AUTH_SUCCESS_MSG = "Congrats, you have successfully authenticated me to upload to Youtube.\nHappy uploading!"
+    AUTH_SUCCESS_MSG = "Congrats, you have successfully authenticated me to upload to Youtube.\nHappy uploading! \nDont forget to join @ZainsProjects to get updates"
 
     AUTH_FAILED_MSG = "Authentication failed\nDetails:{}"
     
